@@ -1,0 +1,14 @@
+attCommun;value
+NameOptim;Artigo_7_dias_48horas_dia1
+NbPeriods;168
+PeriodoAcoplamentoCortes;48
+CVARLambda;0
+CVARAlpha;0
+Tol;1.00E-04
+DiscountTax;0
+FlagSaveProblem;1
+FlagSimul;0
+FlagCuts;1
+FlagDS;1
+VolumeFlowConversion;0.0036
+NrOFSscenarios;1000

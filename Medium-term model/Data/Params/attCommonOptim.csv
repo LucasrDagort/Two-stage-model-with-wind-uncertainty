@@ -1,0 +1,7 @@
+attCommun;value
+NameOptim;CortesDiarios
+NbPeriods;10
+VolumeFlowConversion;0.0036
+MaxIte;100
+NrScenarios;200
+Tol;1.00E-10
